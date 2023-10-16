@@ -1,1 +1,6 @@
-style.css.map
+*.sketch
+*.fig
+*.map
+*.xd
+.DS_Store
+.prettierignore
